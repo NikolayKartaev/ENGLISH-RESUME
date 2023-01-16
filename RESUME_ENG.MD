@@ -18,12 +18,13 @@ ___
 ### **Resume structure**
 
 1. Contacts
+ - Your photo ![Something went wrong...](Myphoto.png)
  - _There you can show your address, phone number, e-mail._
 2. Professional Profile
  - _There you can show short information about relevant experience and skills._
  
 3. Professional experience
- - Consists of company name/website, work period, achievements/duties
+ - Consists of company name/[website](https://www.google.com/) , work period, achievements/duties
 4. Education part
 - Includes school name, specialization, graduation date, certificates
 5. Professional skills
