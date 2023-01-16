@@ -10,9 +10,9 @@
 ### 4. My resume draft  
 ---
 ### **What is resume**
-Resume is a short document with comfortable layout and __relevent__ (_соответствующий_) information.
+Resume is a short document with **comfortable layout** and __relevent__ (_соответствующий_) information.
 
-There you can show allimportant information about yourself, your experience, education and skills.
+There you can show all important information about yourself, your experience, education and skills in resume.
 > **We don't write: ~~I have~~/ ~~I am~~ in a resume**
 ___
 ### **Resume structure**
