@@ -12,7 +12,8 @@
 ### **What is resume**
 Resume is a short document with **comfortable layout** and __relevent__ (_соответствующий_) information.
 
-**Added some fixes in line 15**
+**There must be conflict**
+
 > **We don't write: ~~I have~~/ ~~I am~~ in a resume**
 ___
 ### **Resume structure**
