@@ -35,3 +35,20 @@ ___
 ____
 
 
+### **My resume draft**  
+1. Contacts
+ - There will be **my photo**![Add photo to Directory]()
+ - _There will be my address, phone number, e-mail._
+2. There will be my **Professional Profile**
+ - _There will be short information about my relevant experience and skills._
+ 
+3. There will be my **Professional experience**
+ - Consists of company name ([website]()) , work period, achievements/duties
+4. There will be my **Education part**
+- Includes school name, specialization, graduation date, certificates
+5. There will be my **Professional skills**
+
+6. There will be **my other skills**
+- Such as english level, hobbies
+7. There will be my **Cover letter**
+- A business letter to an HR manager
