@@ -18,20 +18,23 @@ ___
 ### **Resume structure**
 
 1. Contacts
- - Your photo ![Something went wrong...](Myphoto.png)
+ - *Your photo is to be placed here:*
+ 
+    ![Something went wrong...](Myphoto.png)
  - _There you can show your address, phone number, e-mail._
 2. Professional Profile
- - _There you can show short information about relevant experience and skills._
+ - *There you can show short information about relevant experience and skills.*
  
 3. Professional experience
- - Consists of company name/[website](https://www.google.com/) , work period, achievements/duties
+ - *Consists of company name ([website](https://www.google.com/)), work period, achievements/duties.*
 4. Education part
-- Includes school name, specialization, graduation date, certificates
+- *Includes school name, specialization, graduation date, certificates*
 5. Professional skills
 6. Other skills
-- Such as english level, hobbies
+- *Such as english level, hobbies*
+- *English levels can be: Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced, Proficiency)*
 7. Cover letter
-- A business letter to an HR manager
+- *A business letter to an HR manager*
 ____
 
 ### **Example of resume**
