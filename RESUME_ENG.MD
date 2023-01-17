@@ -36,10 +36,35 @@ ___
 7. Cover letter
 - *A business letter to an HR manager*
 ____
+### **Resume example 1**
+### Contacts
+![Bill Gates is to be here](Bill.jpg)
+- *Bill Gates*
+- _1835 73rd Ave NE, Medina, Washington, United States_
+- *(206) 709-3100*
+- *info@gatesfoundation.org*
 
-### **Example of resume**
-Place from branch Resume_example
-### **My resume draft**
-Place from branch My_Resume
+### Professional Profile
+- *Expert in operating system with 30+ years of experience in software engineering*
+- *Created one of the most popular operating systems - Windows*
+- *Excellent managing skills*
 
+### Professional experience
+1. Microsoft, Redmond, WA, CEO, January 1976 - 1995
+- *Created Windows, Microsoft Office, Internet Explorer*
+2. Honeywell, Boston, Massachusetts, Software engineer, May 1975 - January 1976
+- *Wrote basic software program for personal computers*
+### Education part
 
+1. Harvard University 1973 -1975 (finished in July 2007)
+
+- *Associate Degree in Law*
+### Professional skills
+- *Networking: Wireshark/TCPView packet analysis, DNS servers, mail server*
+- *Operating systems: Windows XP, Vista, 7, 8; Windows Server 2003, 2008, 2012; Linux including CentOS, Ubuntu, Arch, Debian, BackTrack*
+### Other skills
+- *Expert in management and finances*
+- _Fluent in English and Spanish_
+### Cover letter
+_Some information_
+***
