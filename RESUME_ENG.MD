@@ -34,4 +34,5 @@ ___
 - A business letter to an HR manager
 ____
 
-
+### **Example of resume**
+### **My resume draft**
