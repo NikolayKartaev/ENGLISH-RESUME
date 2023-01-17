@@ -35,6 +35,7 @@ ___
 ____
 ### **Resume example 1**
 ### Contacts
+![Bill Gates is to be here](Bill.jpg)
 - *Bill Gates*
 - _1835 73rd Ave NE, Medina, Washington, United States_
 - *(206) 709-3100*
