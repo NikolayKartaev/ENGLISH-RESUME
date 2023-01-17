@@ -1,5 +1,5 @@
 # VERSION CONTROL. Lesson 1
-## Making **Resume in English** using Markdown (markup language).
+## *Making* **Resume in English** *using Markdown (markup language)*.
 ---
 ## CONTENTS:
 
@@ -38,4 +38,8 @@ ___
 ____
 
 ### **Example of resume**
+Place from branch Resume_example
 ### **My resume draft**
+Place from branch My_Resume
+
+
