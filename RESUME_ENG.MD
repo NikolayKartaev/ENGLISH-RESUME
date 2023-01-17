@@ -85,3 +85,5 @@ _Some information_
 - Such as english level, hobbies
 7. There will be my **Cover letter**
 - A business letter to an HR manager
+
+__TO BE CONTINUED...__
