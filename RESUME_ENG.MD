@@ -87,3 +87,5 @@ _Some information_
 - A business letter to an HR manager
 
 __TO BE CONTINUED...__
+
+# A message to GITHUB
