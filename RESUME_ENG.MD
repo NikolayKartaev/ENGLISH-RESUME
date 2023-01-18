@@ -88,5 +88,4 @@ _Some information_
 
 __TO BE CONTINUED...__
 
-# A message to GITHUB
-# **A message from GITHUB**
+
