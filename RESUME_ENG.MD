@@ -88,8 +88,6 @@ _Some information_
 
 __TO BE CONTINUED...__
 
-Testing push 19.01
-
-### A new commit made from GITHUB
+The latest version - 19.01
 
 
