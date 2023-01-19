@@ -88,6 +88,6 @@ _Some information_
 
 __TO BE CONTINUED...__
 
-The latest version - 19.01
+Today is 19.01. It is the latest version
 
 
