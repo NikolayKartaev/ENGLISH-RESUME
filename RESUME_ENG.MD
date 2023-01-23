@@ -85,9 +85,15 @@ _Some information_
 - Such as english level, hobbies
 7. There will be my **Cover letter**
 - A business letter to an HR manager
-
-__TO BE CONTINUED...__
-
-Today is 19.01. It is the latest version
-
-
+---
+HOMEWORK FOR LESSON 3
+===
+MAKING PULL REQUEST
+--
+1. Go to **[GitHub](https://github.com/)**
+2. Find the repo you like and make **FORK**
+3. Clone **FORKED repository** to your local machine by using **``git clone``**
+4. Create a new branch in your local repo
+5. Make changes and commit them
+6. Push new changes to GItHub by using **``git push --set --upstream origin branch_name``**
+7. On GitHub source you will see a button **"Compare&Pull Request"** - push it and leave your comments for Pull Request
